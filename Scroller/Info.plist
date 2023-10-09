@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSAccessibilityDescription</key>
+    <string>We need accessibility permissions to improve scroll behavior.</string>
+    <key>NSApplicationUsageDescription</key>
+    <string>We need to monitor mouse events for smooth scrolling.</string>
+    <key>IOHIDDeviceUsageDescription</key>
+    <string>We need to monitor mouse events for smooth scrolling.</string>
+    <key>LSUIElement</key>
+    <string>1</string>
+</dict>
+</plist>
